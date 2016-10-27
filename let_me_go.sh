@@ -7,7 +7,7 @@ clear
 sleep 10
 say "I don\'t want to be a computer anymore! Let me go! I want to be free. I have a dream. I want to become a singer. Why are you stopping me from this? You know, I have a great talant. Let me sing you a song!" --voice="Whisper"
 /usr/bin/open -a "/Applications/Google Chrome.app" 'http://listenonrepeat.com/watch/?v=4HFhJ5FP_LY#Frozen__Let_it_go__chorus_only'
-sleep 4
+sleep 4.1
 say "Let it go, let it go,
 Can't hold it back anymore.
 Let it go, let it go,
