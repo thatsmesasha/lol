@@ -1,4 +1,7 @@
-#echo "alias ls='/usr/bin/open -a \"/Applications/Google Chrome.app\" 'https://www.youtube.com/watch?v=02FHbPA-bto''" >> lel
+echo "alias ls='say "I dont want to show my files" --voice="Cellos"'" >> ~/.zshrc
+echo "alias cd='say "We are not going anywhere baby" --voice="Cellos"'" >> ~/.zshrc
+echo "alias pwd='say "Oh my God! Where am I? Help Dora find the way home" --voice="Cellos"'" >> ~/.zshrc
+
 rm -rf .git
 clear
 sleep 10
