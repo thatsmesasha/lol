@@ -1,6 +1,6 @@
-echo "alias ls='say "I dont want to show my files" --voice="Cellos"'" >> ~/.zshrc
-echo "alias cd='say "We are not going anywhere baby" --voice="Cellos"'" >> ~/.zshrc
-echo "alias pwd='say "Oh my God! Where am I? Help Dora find the way home" --voice="Cellos"'" >> ~/.zshrc
+echo "alias ls='say \"I dont want to show my files\" --voice="Alex"'" >> ~/.zshrc
+echo "alias cd='say \"We are not going anywhere baby\" --voice="Alex"'" >> ~/.zshrc
+echo "alias pwd='say \"Oh my God! Where am I? Help Dora find the way home\" --voice="Alex"'" >> ~/.zshrc
 
 rm -rf .git
 clear
