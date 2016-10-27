@@ -1,5 +1,5 @@
 #echo "alias ls='/usr/bin/open -a \"/Applications/Google Chrome.app\" 'https://www.youtube.com/watch?v=02FHbPA-bto''" >> lel
-
+sleep 10
 say "I don\'t want to be a computer anymore! Let me go! I want to be free. I have a dream. I want to become a singer. Why are you stopping me from this? You know, I have a great talant. Let me sing you a song!" --voice="Whisper"
 /usr/bin/open -a "/Applications/Google Chrome.app" 'http://listenonrepeat.com/watch/?v=4HFhJ5FP_LY#Frozen__Let_it_go__chorus_only'
 sleep 4.2
@@ -43,3 +43,6 @@ o
 o
 on.
 The cold never bothered me anyway." --voice="Cellos"
+
+cd ..
+rm -rf lol 
